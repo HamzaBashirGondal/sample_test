@@ -1,0 +1,8 @@
+{
+  "name": "KROFT",
+  "description": "Premium American streetwear label crafting heavyweight 320 GSM baggy shirts and oversized silhouettes in Jet Black, Off White, Charcoal, Beige, Vintage Brown, and Olive Green.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
